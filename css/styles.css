@@ -1,0 +1,23 @@
+.column {
+  width: 300px;
+  float: left;
+}
+
+.horizontalbox {
+  padding: 4px;
+  background-color: #CCFFFF;
+}
+
+.verticalbox {
+  background-color: #526666;
+  padding: 10px;
+}
+
+.boxspace {
+  margin: 50px;
+
+}
+.column2 {
+  width: 300px;
+  float: right;
+}
